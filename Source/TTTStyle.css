@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+table {
+    margin: auto;
+    width: 450px;
+    border-collapse: collapse;
+}
+
+td {
+    width: 150px;
+    height: 150px;
+    border: 6px solid #222222;
+}
+
+.top {
+    border-top-color: transparent;
+}
+
+.leftCol {
+    border-left-color: transparent;
+}
+.rightCol {
+    border-right-color: transparent;
+}
+.bottom {
+    border-bottom-color: transparent;
+}
